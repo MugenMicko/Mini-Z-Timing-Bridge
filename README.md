@@ -1,11 +1,11 @@
 # Mini-Z-Timing-Bridge
-A 2020 extrusion based Timing Bridge for Mini Z racing on Kyosho/RCP Tracks
+##A 2020 extrusion based Timing Bridge for Mini Z racing on Kyosho/RCP Tracks
 
-This is my personal design for a 2020 Aluminium Extrusion Timing Bridge for Mini Z Racing on Kyosho / RCP Branded Tile track system
-The included bill of materials is to facilitate the EasyLaps Timing System specifications to ensure best reliability.
-The Transponder sensors sit approximately 5 mm lower than the top extrusion that I refer to as a Cross beam.  The sensors bolt directly to the extrusion with 2 M3x14mm SS SHCS (Socket Head Cap Screws) or BHCS (Button Head Cap Screws), 2 M3 washers and 2 M3 Roll In Spring T nuts.
-The bottom extrusions are connected to the upright using a blind joint and M5x12mm BHCS, as does the cross beam to the uprights
-There is an additional brace for each side that I had laser cut in 3mm aluminium sheet, which I cleaned, primed and painted before assembly. This is used to brace the bottom extrusion and uprights using M5x8mm BHCS, M5 Washers and M5 Roll In Spring T nuts.
+This is my personal design for a 2020 Aluminium Extrusion Timing Bridge for Mini Z Racing on Kyosho / RCP Branded Tile track system\
+The included bill of materials is to facilitate the EasyLaps Timing System specifications to ensure best reliability.\
+The Transponder sensors sit approximately 5 mm lower than the top extrusion that I refer to as a Cross beam.  The sensors bolt directly to the extrusion with 2 M3x14mm SS SHCS (Socket Head Cap Screws) or BHCS (Button Head Cap Screws), 2 M3 washers and 2 M3 Roll In Spring T nuts.\
+The bottom extrusions are connected to the upright using a blind joint and M5x12mm BHCS, as does the cross beam to the uprights\
+There is an additional brace for each side that I had laser cut in 3mm aluminium sheet, which I cleaned, primed and painted before assembly. This is used to brace the bottom extrusion and uprights using M5x8mm BHCS, M5 Washers and M5 Roll In Spring T nuts.\
 This solution makes the timing bridge incredibly strong and quick to disassemble with simply loosening off the top 2 M5 BHCS leaving the uprights to slide off. It was suggested by Mark Warren to utilise folding hinges with https://a.co/d/0cxLSGS9 these from Amazon.  If using this option, you will need to shorten the uprights by 4cm / 40mm.
 There appears to be contention about the height of the bridge, EasyLaps specifies 50-70cm in the manual, Phillip Ng on the 1:28 World Mini Z Community has suggested 48cm, the design makes the sensors 49.6mm from the track surface, if you wish to lower it, just shorten the uprights by you choice.
 It has also come to my attention that some clubs are using the TrackMate system and Moe Agha has stated that the ideal height range for that system is 9 to 12 inches off the track surface.  If you wish to use this bridge with that system, I have included files for a smaller bracket and would shorten the uprights to between 250 - 280mm.
