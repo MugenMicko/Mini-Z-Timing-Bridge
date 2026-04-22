@@ -31,7 +31,9 @@ I was able to order extrusion cut to length from a supplier in Melboure, there a
 I chose to drill and tap the extrusion myself, it is quite easy with hand tools and a drill and plenty of videos on YouTube to show you how to do it.  
 
 
-Should you wish to use this timing bridge across a 3 tile setup, simply measure the width between the bumpers on the track and add 126mm
+Should you wish to use this timing bridge across a 3 tile setup, simply measure the width between the bumpers on the track and add 126mm\
+This design will yeild an incredibly sturdy timing bridge that you can easily add to and modify. For example, it is very easy using T Nuts and M3 BHCS to mount signage for your local club to it, and beyond this, it cost me $122 AUD to build, which is about $80 USD.
+
 Best of luck to you and I hope this Timing Bridge is useful and I would love to see photos or videos of your build in action
 Cheers
 
