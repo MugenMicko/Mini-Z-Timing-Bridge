@@ -38,3 +38,8 @@ Best of luck to you and I hope this Timing Bridge is useful and I would love to 
 Cheers
 
 Micko
+
+<img width="1049" height="969" alt="Example of Blind Joint using M5 Button Head Screw" src="https://github.com/user-attachments/assets/e6937b87-8d48-4641-9236-8d8e76a358df" />
+<img width="1338" height="809" alt="Access to M5 Screw" src="https://github.com/user-attachments/assets/40ff2779-8f99-47ad-b74b-776d1f77879d" />
+<img width="1998" height="1049" alt="Assembled Timing Bridge" src="https://github.com/user-attachments/assets/dae7bf4f-ece9-4394-96d4-08bb160d6465" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/e405d2ee-3b57-439d-a8d4-fc111894dea6" />
