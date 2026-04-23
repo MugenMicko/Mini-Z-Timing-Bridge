@@ -39,6 +39,39 @@ Cheers
 
 Micko
 
+Mini Z Timing Bridge
+
+Open Community License (OCL) v1.0
+
+Copyright (c) 2026 Michael Overland
+
+This hardware design is licensed under the Open Community License ("OCL") v1.0.
+By downloading or using the design files (STEP, CAD, STL, etc.), you agree to
+the following terms:
+
+1. LICENSE GRANT
+You are granted a worldwide, non-exclusive, free-of-charge license to use,
+copy, modify, and create derivative works from the design files for personal
+or internal business use.
+
+2. COMMERCIAL RESTRICTION
+You MAY NOT sell, distribute, or profit from the commercial sale of the
+physical product or its derivatives made from these design files without a
+separate, written agreement with the Copyright Holder.
+
+3. PATENT RIGHTS
+The Copyright Holder grants you a perpetual, royalty-free patent license to
+make, have made, use, and sell the design, provided that the activity complies
+with Section 2.
+
+4. NO WARRANTY
+This design is provided "as-is" without any warranty.
+
+For more information or to request a commercial license, contact:
+Michael Overland
+mugenmicko@gmail.com
++61437804172
+
 <img width="1049" height="969" alt="Example of Blind Joint using M5 Button Head Screw" src="https://github.com/user-attachments/assets/e6937b87-8d48-4641-9236-8d8e76a358df" />
 <img width="1338" height="809" alt="Access to M5 Screw" src="https://github.com/user-attachments/assets/40ff2779-8f99-47ad-b74b-776d1f77879d" />
 <img width="1998" height="1049" alt="Assembled Timing Bridge" src="https://github.com/user-attachments/assets/dae7bf4f-ece9-4394-96d4-08bb160d6465" />
